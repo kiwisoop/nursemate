@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "abbr": "BP",
+    "fullName": "Blood Pressure",
+    "meaning": "혈압",
+    "acceptableFullNames": ["Blood Pressure"],
+    "acceptableMeanings": ["혈압"],
+    "category": "활력징후"
+  },
+  {
+    "id": 2,
+    "abbr": "HR",
+    "fullName": "Heart Rate",
+    "meaning": "심박수",
+    "acceptableFullNames": ["Heart Rate"],
+    "acceptableMeanings": ["심박수", "맥박수", "심장박동수"],
+    "category": "활력징후"
+  },
+  {
+    "id": 3,
+    "abbr": "RR",
+    "fullName": "Respiration Rate",
+    "meaning": "호흡수",
+    "acceptableFullNames": ["Respiration Rate", "Respiratory Rate"],
+    "acceptableMeanings": ["호흡수"],
+    "category": "활력징후"
+  },
+  {
+    "id": 4,
+    "abbr": "BT",
+    "fullName": "Body Temperature",
+    "meaning": "체온",
+    "acceptableFullNames": ["Body Temperature"],
+    "acceptableMeanings": ["체온"],
+    "category": "활력징후"
+  },
+  {
+    "id": 5,
+    "abbr": "NPO",
+    "fullName": "Nothing Per Oral",
+    "meaning": "금식",
+    "acceptableFullNames": ["Nothing Per Oral", "Nothing Per Os", "Nil Per Os", "Nothing by Mouth"],
+    "acceptableMeanings": ["금식", "경구금식"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 6,
+    "abbr": "PRN",
+    "fullName": "Pro Re Nata",
+    "meaning": "필요시",
+    "acceptableFullNames": ["Pro Re Nata", "As Needed"],
+    "acceptableMeanings": ["필요시", "필요할 때마다", "증상 있을 때"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 7,
+    "abbr": "I/O",
+    "fullName": "Intake and Output",
+    "meaning": "섭취량과 배설량",
+    "acceptableFullNames": ["Intake and Output", "Intake Output"],
+    "acceptableMeanings": ["섭취량과 배설량", "섭취배설량", "수분섭취배설량"],
+    "category": "기본간호"
+  },
+  {
+    "id": 8,
+    "abbr": "DVT",
+    "fullName": "Deep Vein Thrombosis",
+    "meaning": "심부정맥혈전증",
+    "acceptableFullNames": ["Deep Vein Thrombosis", "Deep Venous Thrombosis"],
+    "acceptableMeanings": ["심부정맥혈전증"],
+    "category": "순환기"
+  },
+  {
+    "id": 9,
+    "abbr": "COPD",
+    "fullName": "Chronic Obstructive Pulmonary Disease",
+    "meaning": "만성폐쇄성폐질환",
+    "acceptableFullNames": ["Chronic Obstructive Pulmonary Disease"],
+    "acceptableMeanings": ["만성폐쇄성폐질환"],
+    "category": "호흡기"
+  },
+  {
+    "id": 10,
+    "abbr": "ABGA",
+    "fullName": "Arterial Blood Gas Analysis",
+    "meaning": "동맥혈가스분석",
+    "acceptableFullNames": ["Arterial Blood Gas Analysis"],
+    "acceptableMeanings": ["동맥혈가스분석", "동맥혈가스검사"],
+    "category": "검사"
+  },
+  {
+    "id": 11,
+    "abbr": "CBC",
+    "fullName": "Complete Blood Count",
+    "meaning": "전혈구검사",
+    "acceptableFullNames": ["Complete Blood Count"],
+    "acceptableMeanings": ["전혈구검사", "일반혈액검사", "전혈구계산"],
+    "category": "검사"
+  },
+  {
+    "id": 12,
+    "abbr": "CPR",
+    "fullName": "Cardiopulmonary Resuscitation",
+    "meaning": "심폐소생술",
+    "acceptableFullNames": ["Cardiopulmonary Resuscitation"],
+    "acceptableMeanings": ["심폐소생술"],
+    "category": "응급"
+  },
+  {
+    "id": 13,
+    "abbr": "ICU",
+    "fullName": "Intensive Care Unit",
+    "meaning": "중환자실",
+    "acceptableFullNames": ["Intensive Care Unit"],
+    "acceptableMeanings": ["중환자실", "집중치료실"],
+    "category": "병동"
+  },
+  {
+    "id": 14,
+    "abbr": "ER",
+    "fullName": "Emergency Room",
+    "meaning": "응급실",
+    "acceptableFullNames": ["Emergency Room"],
+    "acceptableMeanings": ["응급실"],
+    "category": "병동"
+  },
+  {
+    "id": 15,
+    "abbr": "OR",
+    "fullName": "Operating Room",
+    "meaning": "수술실",
+    "acceptableFullNames": ["Operating Room", "Operation Room"],
+    "acceptableMeanings": ["수술실"],
+    "category": "병동"
+  },
+  {
+    "id": 16,
+    "abbr": "IV",
+    "fullName": "Intravenous",
+    "meaning": "정맥내",
+    "acceptableFullNames": ["Intravenous", "Intravenous Injection"],
+    "acceptableMeanings": ["정맥내", "정맥주사", "정맥투여"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 17,
+    "abbr": "IM",
+    "fullName": "Intramuscular",
+    "meaning": "근육내",
+    "acceptableFullNames": ["Intramuscular", "Intramuscular Injection"],
+    "acceptableMeanings": ["근육내", "근육주사"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 18,
+    "abbr": "SC",
+    "fullName": "Subcutaneous",
+    "meaning": "피하",
+    "acceptableFullNames": ["Subcutaneous", "Subcutaneous Injection"],
+    "acceptableMeanings": ["피하", "피하주사", "피하내"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 19,
+    "abbr": "PO",
+    "fullName": "Per Oral",
+    "meaning": "경구투여",
+    "acceptableFullNames": ["Per Oral", "Per Os", "By Mouth"],
+    "acceptableMeanings": ["경구투여", "경구"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 20,
+    "abbr": "BID",
+    "fullName": "Bis In Die",
+    "meaning": "하루 두 번",
+    "acceptableFullNames": ["Bis In Die", "Twice a Day"],
+    "acceptableMeanings": ["하루 두 번", "1일 2회", "하루2번"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 21,
+    "abbr": "TID",
+    "fullName": "Ter In Die",
+    "meaning": "하루 세 번",
+    "acceptableFullNames": ["Ter In Die", "Three Times a Day"],
+    "acceptableMeanings": ["하루 세 번", "1일 3회", "하루3번"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 22,
+    "abbr": "QID",
+    "fullName": "Quater In Die",
+    "meaning": "하루 네 번",
+    "acceptableFullNames": ["Quater In Die", "Four Times a Day"],
+    "acceptableMeanings": ["하루 네 번", "1일 4회", "하루4번"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 23,
+    "abbr": "QD",
+    "fullName": "Quaque Die",
+    "meaning": "하루 한 번",
+    "acceptableFullNames": ["Quaque Die", "Once a Day", "Every Day"],
+    "acceptableMeanings": ["하루 한 번", "1일 1회", "매일"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 24,
+    "abbr": "HS",
+    "fullName": "Hora Somni",
+    "meaning": "취침시",
+    "acceptableFullNames": ["Hora Somni", "At Bedtime"],
+    "acceptableMeanings": ["취침시", "자기전", "취침전"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 25,
+    "abbr": "STAT",
+    "fullName": "Statim",
+    "meaning": "즉시",
+    "acceptableFullNames": ["Statim", "Immediately"],
+    "acceptableMeanings": ["즉시", "응급즉시"],
+    "category": "처치·투약"
+  },
+  {
+    "id": 26,
+    "abbr": "CHF",
+    "fullName": "Congestive Heart Failure",
+    "meaning": "울혈성심부전",
+    "acceptableFullNames": ["Congestive Heart Failure"],
+    "acceptableMeanings": ["울혈성심부전", "심부전"],
+    "category": "순환기"
+  },
+  {
+    "id": 27,
+    "abbr": "MI",
+    "fullName": "Myocardial Infarction",
+    "meaning": "심근경색",
+    "acceptableFullNames": ["Myocardial Infarction"],
+    "acceptableMeanings": ["심근경색", "심근경색증"],
+    "category": "순환기"
+  },
+  {
+    "id": 28,
+    "abbr": "DM",
+    "fullName": "Diabetes Mellitus",
+    "meaning": "당뇨병",
+    "acceptableFullNames": ["Diabetes Mellitus"],
+    "acceptableMeanings": ["당뇨병", "당뇨"],
+    "category": "내분비"
+  },
+  {
+    "id": 29,
+    "abbr": "HTN",
+    "fullName": "Hypertension",
+    "meaning": "고혈압",
+    "acceptableFullNames": ["Hypertension"],
+    "acceptableMeanings": ["고혈압"],
+    "category": "순환기"
+  },
+  {
+    "id": 30,
+    "abbr": "ICP",
+    "fullName": "Intracranial Pressure",
+    "meaning": "두개내압",
+    "acceptableFullNames": ["Intracranial Pressure"],
+    "acceptableMeanings": ["두개내압", "뇌압"],
+    "category": "신경계"
+  }
+]
